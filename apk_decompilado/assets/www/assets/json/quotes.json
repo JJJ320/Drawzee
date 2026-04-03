@@ -1,0 +1,39 @@
+{
+    "name": {
+        "Catzee": [
+            "Cat", "Angelicat", "McClaw", "McCatface", "Catalie", "Miao", "Clawford", "Meower", "Meowmare",
+            "Purry", "Kitty", "Meowly", "Whisker", "Deadclaw", "Litterbatch", "Whispurr", "Clawsby", "Catsley",
+            "Catstro", "Picat", "DaFuzzy", "Skywhisker", "Claws", "Shakespaw", "Catzilla", "Fuzzinator",
+            "Kittin", "Octopuss", "Retropuss", "Tweedledum", "Tweedledee", "Wigglefloof", "Squishbeans"
+        ],
+        "Dogzee": [
+            "Poodle", "Paws", "Pug", "Chew", "Bark", "Barkensen", "von Woof", "Ja-Bark", "Pawsborne", "Barkness",
+            "Puppins", "Woofgang", "McDoggins", "McDogface", "Pawter", "Bones", "Spot", "T-Bone", "Dawg", "Barkley",
+            "Sniffer", "Furbulous", "Woofington", "Wigglebottom", "Doubledoodle", "Fluff"
+        ],
+        "Pigzee": [
+            "Pigmey", "McPigface", "Meatball", "Buritto", "Bacon", "Pigi", "Snouts", "von Truffle"
+        ],
+        "Common": [
+            "Scrappy", "Scraffy", "Stinky", "Shorty", "Blue", "Flea", "Lick", "Hairy", "Wigglebutt", "Winky",
+            "Droolius", "Sparky", "Squeakers", "Rex", "Felix", "Snuffles", "Rumpel", "Brutus", "Pam", "Barney",
+            "Slim", "Fatsy", "Squirt", "Twinkie", "Peanut", "Fuzzy", "Waffles", "Noodles", "Captain", "Major",
+            "Pickles", "Flopsy", "Jabba The", "Protos", "Tofik", "Matrox", "Toothless"
+        ]
+    },
+    "quote": {
+        "Catzee": [
+            "'Woof' means 'meow' in dog.", "In ancient times cats were worshipped as gods; we have not forgotten this.",
+            "You cut off my WHAT NOW?!", "I fits I sits.", "I’m beginning to doubt that the red dot can be caught."
+        ],
+        "Dogzee": [
+            "Happiness is a warm puppy.", "'Meow' means 'woof' in cat.", "Some days you're the dog; some days you're the hydrant.",
+            "I wonder if other dogs think poodles are members of a weird religious cult.", "Oh, wha.. what’s that you’re eating?",
+            "I don't know man, I just .. what if I never find out who's a good boy?", "You may not know this, but I like toast!",
+            "You cut off my WHAT NOW?!", "Let me sing you the song of my peoples!", "Hello sir, please give me all of your socks."
+        ],
+        "Pigzee": [
+            "Oink, oink oing .. oink."
+        ]
+    }
+}

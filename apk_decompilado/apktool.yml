@@ -1,0 +1,20 @@
+version: 3.0.1
+apkFileName: Drawzee_1.0.1_APKPure.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 16
+  targetSdkVersion: 25
+versionInfo:
+  versionCode: 10001
+  versionName: 1.0.1
+resourcesInfo:
+  packageId: 127
+  keepRawValues: true
+doNotCompress:
+- arsc
+- gif
+- png
+- assets/www/assets/icon/favicon.ico
+- assets/www/build/main.css.map

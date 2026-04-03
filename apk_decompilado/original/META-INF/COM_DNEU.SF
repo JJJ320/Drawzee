@@ -1,0 +1,477 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: fkKJLUENx0EIC2JIGM4eXA531Os=
+SHA1-Digest-Manifest: Pjlvqhd1N0luVx36Iwvzoiy85ow=
+Created-By: 1.8.0_101 (Oracle Corporation)
+
+Name: assets/www/build/main.js.map
+SHA1-Digest: FYaPi9wKjQRkBSmRZeAq3Lw81HU=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileUploadOptions.js
+SHA1-Digest: c6qqp60CDC7lcEUhfPHQtsRiY2U=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA1-Digest: obJOHt9niU770ghbF1kKClxCPYQ=
+
+Name: assets/www/plugins/cordova-plugin-google-analytics/www/analytics
+ .js
+SHA1-Digest: T4XErWoyH7anUZDXaAdV+qZyQHM=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: TeEUbqiUSz2vXwEPHvN9vfbYIUg=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: g6mzuzwQpXA41TjAGVC2CEZdtgY=
+
+Name: assets/www/plugins/cordova-plugin-file/www/Flags.js
+SHA1-Digest: As5lNueeCAEqhtEQqUc37dt0ojU=
+
+Name: res/drawable-land-xxxhdpi-v4/screen.png
+SHA1-Digest: e7wey8vFn3WGjY4g2LUhRZxuebc=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: j8RuzNZdC4eBMEufaTGc/3vN81k=
+
+Name: assets/www/build/main.css.map
+SHA1-Digest: zD6UOx+vPzD4ZgTu+7ZD1RA7NXE=
+
+Name: assets/www/plugins/cordova-plugin-file-transfer/www/FileTransfer
+ .js
+SHA1-Digest: DS7t8C+xCKxzxQvV68bVb87bna0=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: nmv5U418DLbK/IpqG+mxsvjsH5U=
+
+Name: assets/www/plugins/cordova-plugin-photo-library/www/PhotoLibrary
+ .js
+SHA1-Digest: tO4Qcn2mJaDUxjcM4P4RIcmXsig=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: Ckssyxj22zREq80yjY8XiO9lZoY=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: a4ITxlpxH1VPOLS/4B0+6Fw3bLg=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: DyNoltEL4yj1M0KRnp7t1ESe+Fo=
+
+Name: assets/www/index.html
+SHA1-Digest: j2gDrpkXmAULRdt0rkI3b0qhz/E=
+
+Name: assets/www/assets/fonts/roboto-regular.ttf
+SHA1-Digest: bt9PV3r+1ybfK05v72M3bxHHiE4=
+
+Name: assets/www/assets/fonts/roboto-medium.woff
+SHA1-Digest: fjxz4PTF42IjvNBJkyRfnN/12WA=
+
+Name: assets/www/assets/js/fabric.min.js
+SHA1-Digest: uNglvMdzC32z76ZcQSnmjLjg9Ng=
+
+Name: assets/www/build/sw-toolbox.js
+SHA1-Digest: BZ8Ad/AI3uHOH9QM8XnHNbraKWY=
+
+Name: assets/www/plugins/cordova-plugin-file/www/requestFileSystem.js
+SHA1-Digest: huDJkq4lnpCgMa5abVZOinKxrnw=
+
+Name: assets/www/plugins/cordova-plugin-file/www/fileSystems-roots.js
+SHA1-Digest: KoR1ls/y6IDrgKsEb4e5G0RqK5U=
+
+Name: assets/www/assets/fonts/Catamaran-Medium.ttf
+SHA1-Digest: VjI552zyfmW9Jw4usFiKxeDrZ4M=
+
+Name: assets/www/assets/fonts/ionicons.eot
+SHA1-Digest: FzJDlq1UqH+lF8/QboVaUcq05f4=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileWriter.js
+SHA1-Digest: H7mzSkZ9u6ECMRJ1XYAaeqRJ1gA=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: HkiLkY/8EpSujOzbdVYouf6/yIo=
+
+Name: assets/www/plugins/cordova-plugin-file/www/Entry.js
+SHA1-Digest: lP1/iqEAUbDnkYC3bRwTt8IeMSE=
+
+Name: assets/www/assets/img/wait.gif
+SHA1-Digest: QX+Z+ch4ggGW6mXUcakEk2f2Eg8=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: DJjwxdEyJJMv1NY1WkNSeWbkXAM=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: f+CdlZDLRZ1RJs9nzA8MqMupcVs=
+
+Name: resources.arsc
+SHA1-Digest: bYQB/LJmlEjMGLG1uRqV132XOs4=
+
+Name: assets/www/plugins/cordova-plugin-file/www/android/FileSystem.js
+SHA1-Digest: FZ97tGHloMDBQEh+rJs1pRYG/8U=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: cckLBI5CYoweS7qkhB0uneVpEQQ=
+
+Name: assets/www/assets/fonts/roboto-bold.ttf
+SHA1-Digest: WWLTiaYsrKL8cvmpSX91scR5lQg=
+
+Name: assets/www/plugins/cordova-plugin-file/www/LocalFileSystem.js
+SHA1-Digest: yXEOCQN57N9DGPg7mMMfi9gkE40=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: b5Ik/wfE+4gqQvDaLgp/qCBcFHc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ttx8Tku6QcYrcIKmmBL8QLwyZIM=
+
+Name: assets/www/plugins/cordova-plugin-file/www/ProgressEvent.js
+SHA1-Digest: U9DYFL29Zd2bn5qMq+XhiXd3pws=
+
+Name: assets/www/plugins/cordova-plugin-file/www/DirectoryEntry.js
+SHA1-Digest: fSneTq62mFK5syVNnziSb1NaxJI=
+
+Name: assets/www/service-worker.js
+SHA1-Digest: 3CLxTDtZuOzsUi3rJkqXbY82vR0=
+
+Name: assets/www/assets/fonts/roboto-light.woff
+SHA1-Digest: sZlW4Y592jwCc4KgUUD8jvUzTf8=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: 38WtpiAj5vmsHOuyTUe8kYOXH14=
+
+Name: res/xml/config.xml
+SHA1-Digest: r2/fuWG8xXr5CWDPfAsrhWfmKeA=
+
+Name: assets/www/assets/fonts/roboto-regular.woff
+SHA1-Digest: yN7dzE3Bs0e1SrQtqOFQRR7nqxQ=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: 114JeE0V4TraBZ9dV1Y48zQ6VCY=
+
+Name: assets/www/assets/fonts/Catamaran-ExtraLight.ttf
+SHA1-Digest: 5fDvqEyK5KfJfOJ2tyi9eaaALWA=
+
+Name: assets/www/assets/fonts/roboto-medium.ttf
+SHA1-Digest: +yOG9mE4sCegqn33lA5u4/ved5o=
+
+Name: assets/www/build/main.css
+SHA1-Digest: QHk+a0E5undZOw/aPLTusCLb9Zg=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: BUPYn1xQqq+mKzFm9TT/LOVzhy8=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileReader.js
+SHA1-Digest: AUkAzvF5oA4xly0NbTLrDtSkcoU=
+
+Name: assets/www/manifest.json
+SHA1-Digest: XpgjphUZu7BZGElTyunNFK8eHDs=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: 2cbBp9znaAEOrwQ43M3tOPfwZX4=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileUploadResult.js
+SHA1-Digest: fdtF/5AkNuCc/j14QtYdYBmv05Q=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: oRI2hfON4+8Bpr+zT62+NTFLukY=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: 3I2mFd+rDNL03uvYwrNS4l2B1Nk=
+
+Name: assets/www/plugins/cordova-plugin-file/www/browser/isChrome.js
+SHA1-Digest: 6SQuF/+9UgPb3r2yMoVi2/dmfb4=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: tbt9Cm0eAswb03gan8bK+yZqNLA=
+
+Name: assets/www/plugins/cordova-plugin-photo-library/www/async/dist/a
+ sync.min.js
+SHA1-Digest: qDyImmklK76AlsiYmBg+C1EpO5o=
+
+Name: assets/www/plugins/cordova-plugin-x-socialsharing/www/SocialShar
+ ing.js
+SHA1-Digest: FKu/MHIDxRFH+2Mx/fUbZ1bD77Q=
+
+Name: assets/www/assets/fonts/ionicons.ttf
+SHA1-Digest: z8dsSPfmxOodlrETpj7MWxOEbws=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: 2Kl3qXO2wFs8AkDEilsUrZ/6ooo=
+
+Name: assets/www/assets/fonts/ionicons.woff2
+SHA1-Digest: DCGPiI4nCq2nSJVlJxnfKeigmFg=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: aQoFWERyto3dl5kdyl5DhdiZOk8=
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: obDj+laJ5NM4WlZBMsata6oXGVY=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: 3+4b746F7mncJcAW/4IhnAVdlFo=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: xNL6eFcNcd4MSxVYSX7R92sQcDo=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: IYhERD2r3O1CfXk1KLb3SP8B6vo=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: WMSkc0u+fBApAiUe86W9D5KufB4=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: NHJ3Zk4Oe8p58FgHL6KI/+pggbk=
+
+Name: assets/www/assets/img/catzee.png
+SHA1-Digest: TsDSthRI17HKcz73B0uilsVnXv0=
+
+Name: assets/www/plugins/cordova-plugin-file/www/Metadata.js
+SHA1-Digest: sdbeSfxds/XPzGtN+LxqVfHbEd8=
+
+Name: assets/www/cordova.js
+SHA1-Digest: VMZVi6/Zxq8IsQ7O9r2LDTMlVJM=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: WPuzX2mN+o9Ytnx/jvQfoZYjdas=
+
+Name: assets/www/assets/fonts/Catamaran-Light.ttf
+SHA1-Digest: boYU6YwxtZfZFUoSSBDyIKeft68=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: /6JdSs5M298iQRkxlwj8zRhAooI=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: T9r89pQ2x+JO2vUWj8bhN2/nfM8=
+
+Name: assets/www/assets/fonts/noto-sans.scss
+SHA1-Digest: ubhB3nPhgy7DL78y00EHdK4LATQ=
+
+Name: assets/www/plugins/cordova-plugin-file-transfer/www/FileTransfer
+ Error.js
+SHA1-Digest: gg8KkTfQIjIH2EDyH+WZSyXcuAM=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: o6jt77xBVAPKrFasxR95tGYRh98=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileEntry.js
+SHA1-Digest: qmy8sL+KzNkb6VVpdy9ixLeuP9Y=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: iQm/wiNJJuRqb3Fq+NiH3hBOjTQ=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: zyemz4KmHQUCvYKLkiBmCaHmsM4=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: n5BPJ44uxRrdUgAUbmdV67AP2Z4=
+
+Name: res/drawable-land-xxhdpi-v4/screen.png
+SHA1-Digest: 9EJk0a5chuzjpKBW6C5Y3nbX+O0=
+
+Name: assets/www/plugins/cordova-plugin-file/www/DirectoryReader.js
+SHA1-Digest: 87mxcmAnSMqpvZ9HEJkPPW6awzI=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: /nCf0b/1C9vQRp1DAiF2kQNDDOY=
+
+Name: assets/www/assets/fonts/ionicons.woff
+SHA1-Digest: ZmV4FN6CQF+zRczmD8Z3YGMDsy4=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: l6rhkUmoQnDfumHHk+n2Rj6oS3Y=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: JIRUfP79NI5t078vJIq/tww/QEA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: wCUGqGNAHKZk0BZS2jhg7AD94Ok=
+
+Name: assets/www/assets/fonts/noto-sans-regular.ttf
+SHA1-Digest: 01cki4rurg5mnW3r2DjTWDyrGps=
+
+Name: assets/www/plugins/cordova-plugin-file/www/resolveLocalFileSyste
+ mURI.js
+SHA1-Digest: Q+RdSK3l08PM6+in+xeeaZYJpqM=
+
+Name: assets/www/plugins/cordova-plugin-file/www/fileSystems.js
+SHA1-Digest: A7i344MVIUHrFzabPuvlg2CZieM=
+
+Name: assets/www/plugins/cordova-plugin-photo-library/www/async/dist/a
+ sync.min.map
+SHA1-Digest: V/IiFl/SyqO+IwciTr/4yfZkjvg=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: GmNhnenyJ8+MXkPoP7e0mpSAA4o=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: gwvpF3NTgNDnMr5nlU9trmOsTvM=
+
+Name: assets/www/assets/json/quotes.json
+SHA1-Digest: CNIJ9AlMTfhK2EpnSqQeE56+WIY=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: YU4qu7TpiL0V6p+PcPUl72okBvM=
+
+Name: assets/www/assets/fonts/Catamaran-Regular.ttf
+SHA1-Digest: ewUlJIxOnMaYcLzGKau/jufnx2c=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: b3G0a0t11ZIEZCBNHbHQ3a8pJOI=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: norYTkKX9AA8+/rsxITccOy66xw=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA1-Digest: eXXxsKHA0w6gTkT2dbxlMWyBX+k=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: jWKK4xA0Ix247cxum5cDBtLJJdc=
+
+Name: assets/www/assets/fonts/noto-sans-bold.ttf
+SHA1-Digest: OmYhxIkVdrEsyPs707ZHnIqu1XM=
+
+Name: assets/www/assets/fonts/ionicons.scss
+SHA1-Digest: R7gDLleJeCQzPkHNRtJApwFkOB4=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: zPP/eWxu3wpvAXpVDPbDK74FSy4=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: 3Vquxl+Kvq6Dca/sGY2QiGwSyHE=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: px3MV6AYWn9rdTxcFkfk+kwIZEM=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: 9wL4rRIoLY/u5R0CHgCAYaritpU=
+
+Name: assets/www/plugins/ionic-plugin-keyboard/www/android/keyboard.js
+SHA1-Digest: KNBGAJ2Td/2ORRIdPhgRDjLOyIY=
+
+Name: assets/www/assets/fonts/Catamaran-SemiBold.ttf
+SHA1-Digest: T1JHCOn8C7xhw0gdGIqBFGQpFCo=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileError.js
+SHA1-Digest: skIRQcTKz8zTXtsZkSUoDfyckSI=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: 98WEq4d8g8j1PdnH3WvmYH2ipAI=
+
+Name: assets/www/plugins/cordova-plugin-admobpro/www/AdMob.js
+SHA1-Digest: 5erEw4RxnRcxRAVUbBDgMwKdaVM=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: jOzikapOsFGzllQ3pkpFzYp1jFo=
+
+Name: assets/www/plugins/cordova-plugin-file/www/File.js
+SHA1-Digest: CU7Gk3y90aPQ9GSMXAJ60Z+QVHQ=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: tsUIg9nBVTG92BH1BobUqlIquIs=
+
+Name: assets/www/assets/fonts/roboto.scss
+SHA1-Digest: GP5pONMeS29ID9Ak4lEgdhok5kY=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: E3b8zCKS17GRMez6fcytwmsN4LA=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: W3lDf5jYaK2IstZlB6jnrlxRdiA=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: qYIjD5fsX2wzjabtv7jfyfpc7xM=
+
+Name: res/xml/sharing_paths.xml
+SHA1-Digest: uvDmqvygUn10O9242WJecJjBO74=
+
+Name: assets/www/assets/fonts/Catamaran-Bold.ttf
+SHA1-Digest: RabdWKfj/+5w8tLKBHaejOKwgLY=
+
+Name: assets/www/build/main.js
+SHA1-Digest: p/g9ciGDrIix9pT2QOkW19XYeXQ=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: /ZnjUh1VaBtC12hx+hN6cfnuB9Q=
+
+Name: assets/www/build/polyfills.js
+SHA1-Digest: SJV6sEIBp4cAupvO+xiWKeJxgWE=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: YRor3DEc2DeqEMKvPf/RsvvmiCY=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: 4YLwNy1np/TxoPjhUga0pT+rdV4=
+
+Name: assets/www/assets/icon/favicon.ico
+SHA1-Digest: 8q7zqte+hcMlUi4bw7UN/Lw62Ho=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: r/qImtNld0slEkSpWzHHH6Q+t30=
+
+Name: build-data.properties
+SHA1-Digest: E1uTixICWufpCjDyaIHL/9pNCS4=
+
+Name: assets/www/plugins/com.verso.cordova.clipboard/www/clipboard.js
+SHA1-Digest: 6ECckfOxPLPQvYGrEPC75dHvHLM=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileSystem.js
+SHA1-Digest: YXpCJy0dAxQJLxiWh6NPNbDEdM0=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: eXQZ1nh/KxB2NT+QOBLFIN2yh28=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: Vnpfy5LiR9FKEbJbfhhwJLfeeVc=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: Avn1b40KyAr98ipqAliegVlipd0=
+
+Name: assets/www/plugins/phonegap-plugin-push/www/push.js
+SHA1-Digest: 95BKmKpobJZnx+2aaO5yZ0IoG9Y=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: ElRU6ul5TQWgkuQBXfREn59HehA=
+
+Name: assets/www/assets/fonts/roboto-bold.woff
+SHA1-Digest: L+5VdnZS7bJXfc0VVq2hiDh6Mro=
+
+Name: assets/www/assets/fonts/roboto-light.ttf
+SHA1-Digest: 8Tx5oQJapCAJwUOF1/awW6iBQ+g=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: I4BDop/oFPEpmD4Rx6K7mWmlkS4=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: ufFADi51y1JsFblRzmIxovDfWP8=
+
+Name: assets/www/assets/fonts/ionicons.svg
+SHA1-Digest: U1mG+ybuJqNaEZB5aS24FcyLsKo=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ZJ/oYlTIErS2TxMFPSw7UGRmRS0=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: P6pkdlBdYwwjB1aXRr54xrdvpGo=
+
+Name: assets/www/plugins/cordova-plugin-file/www/fileSystemPaths.js
+SHA1-Digest: ClY0A20E9CX9HQnZ3e9erXbm0mI=
+
+Name: classes.dex
+SHA1-Digest: CN2acTO+Qmd7m86IxgZMeiHnl+I=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: 1bKRoJ16sWF2Ziv7Wrr/qn68Qco=
+
